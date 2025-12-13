@@ -1,0 +1,7 @@
+{
+  "name": "SyncRoom",
+  "description": "Listen together, in perfect sync. A real-time synchronized audio playback application for groups.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
